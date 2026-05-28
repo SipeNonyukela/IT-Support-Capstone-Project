@@ -270,14 +270,3 @@ This capstone project demonstrates:
 * Liam Alexander
 
 ---
-
-## Google IT Support Professional Certificate Candidates
-
-### BSG Tech Career Accelerator
-
-
----
-
-# 📄 License
-
-This project was developed for educational and portfolio purposes.
